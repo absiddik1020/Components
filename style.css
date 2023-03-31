@@ -1,0 +1,24 @@
+.mar{
+    margin-left: 10px
+}
+
+
+
+.one{
+    font-size: 30px;
+    font-weight: bold;
+}
+.one .one1{
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.accordion-item h2{
+    font-size: 25px;
+    color:aquamarine;
+}
+.navcol{
+    background-color: #82ccdd;
+    font-size: 18px;
+}
